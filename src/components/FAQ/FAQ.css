@@ -1,0 +1,9 @@
+.ac-header button::after{
+    background-image: url(../../assest/plus-solid.svg);
+}
+.ac-header button:not(.collapsed)::after{
+    background-image: url(../../assest/minus-solid.svg);
+}
+.ac-header button:focus{
+    box-shadow: none;
+}

@@ -1,0 +1,6 @@
+.form-section input:focus{
+    box-shadow: none;
+}
+.form-section textarea:focus{
+    box-shadow: none;
+}

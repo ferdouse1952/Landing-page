@@ -1,0 +1,7 @@
+.photo{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 0.432) 0%, rgba(50,90,101,0.989233193277311) 39%, rgba(0, 213, 255, 0.192) 100%),url(../../assest/cover.jpg);
+    background-position: left;
+    height: 450px;
+
+}
